@@ -1,0 +1,19 @@
+{
+  "name": "jmwoo",
+  "version": "1.0.0",
+  "description": "github pages project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmwoo/jmwoo.github.io.git"
+  },
+  "author": "jmwoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmwoo/jmwoo.github.io/issues"
+  },
+  "homepage": "https://github.com/jmwoo/jmwoo.github.io#readme"
+}
