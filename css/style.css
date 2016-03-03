@@ -5,3 +5,7 @@ h1 {
 body {
 	padding-top: 50px;
 }
+
+.is-alive {
+	display: none;
+}
