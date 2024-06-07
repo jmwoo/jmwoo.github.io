@@ -14,7 +14,6 @@ I make software and other creative content.
 - coming soon
 
 ## Contact
-<!-- You can reach me at [your-email@example.com](mailto:your-email@example.com). -->
 - coming soon
 
 ## More
