@@ -7,56 +7,12 @@ title: Home
 
 The personal website of jmwoo
 
-## [About Me](/about)
+## [About](/about)
 
-## Projects
-- coming soon
+## [Resume](/resume)
 
-## Contact
-- coming soon
+## [Blog](/blog)
 
-## More
-- coming soon
+## [Contact](/contact)
 
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
-## More
-- coming soon
-
+### More coming soon

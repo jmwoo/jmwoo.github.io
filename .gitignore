@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore the _site directory
+_site/
+
+# Ignore Jekyll cache and configuration files
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore dependency directories
+node_modules/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/

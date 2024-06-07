@@ -4,11 +4,11 @@
 - home
 - about
 	- about
-	- hobbies
-	- contact
-		- social media links
-		- form
-		- email?
+		- hobbies
+		- contact
+			- social media links
+			- form
+			- email?
 - resume
 	- certs
 - blog
