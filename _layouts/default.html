@@ -19,10 +19,18 @@
   <body>
     <header>
       <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <a href="/">
+          <h1 style="display: inline;">jmwoo</h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <nav class="navbar">
+          <div class="navbar-links" id="navbar-links">
+            <ul>
+              <li><a href="/about">about</a></li>
+              <li><a href="/resume">resume</a></li>
+              <li><a href="/blog">blog</a></li>
+            </ul>
+          </div>
+        </nav>
       </div>
     </header>
 
@@ -46,6 +54,10 @@
         </aside>
       </div>
     </div>
+
+    <footer>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </footer>
 
   </body>
 </html>
