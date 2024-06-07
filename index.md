@@ -7,8 +7,7 @@ title: Home
 
 The personal website of jmwoo
 
-## About Me
-I make software and other creative content.
+## [About Me](/about)
 
 ## Projects
 - coming soon
