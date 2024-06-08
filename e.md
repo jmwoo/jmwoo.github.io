@@ -11,4 +11,4 @@ title: Ethos
 - no need to consume all the time, produce
 
 - Build in other people’s realities
-- Test them, then learn froxmx them
+- Test them, then learn from them
