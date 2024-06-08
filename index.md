@@ -7,12 +7,6 @@ title: Home
 
 The personal website of jmwoo
 
-## [About](/about)
-
-## [Resume](/resume)
-
-## [Blog](/blog)
-
-## [Contact](/contact)
+You can find more about me [here](/about)
 
 ### More coming soon

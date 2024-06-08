@@ -9,7 +9,7 @@ sidebar_content: |
 
 ---
 
-I am a dedicated software craftsman with a passion for creating efficient and effective software solutions. I excel in planning, developing, testing, and deploying software across various platforms. My experience spans from small startups to working with US government contractors on projects for the US Navy. I am authorized to work in the US for any employer. I am seeking a challenging role where I can contribute my expertise and continue to grow professionally.
+I am a dedicated software craftsman with a passion for creating efficient and effective software solutions. I excel in planning, developing, testing, and deploying software across various platforms. My experience spans from small startups to working with US government contractors on projects for the US Navy. I am authorized to work in the US for any employer.
 
 ---
 
