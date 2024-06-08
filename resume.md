@@ -108,3 +108,22 @@ _Graduated 2012_
 # Certifications
 
 - Azure Fundamentals (AZ-900), 2021
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.12/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<button onclick="downloadPDF()">Download as PDF</button>
+<script>
+  async function downloadPDF() {
+    const response = await fetch('/resume');
+    const html = await response.text();
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF();
+    doc.html(html, {
+        callback: function (doc) {
+            doc.save('resume.md');
+        },
+        x: 10,
+        y: 10
+    });
+  }
+</script>
