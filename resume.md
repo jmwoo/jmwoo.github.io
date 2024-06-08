@@ -77,13 +77,13 @@ _September 2014 - February 2016_
 **Imagine Learning - Provo, UT**\
 _May 2014 - September 2014_
 
-- Created frontend experience for marketing department including complex JavaScript animations, blog display, and Twitter integration
+- Created frontend experience for marketing department including animations, blog display, and Twitter integration
 
 ## Assistant Reporter / Software Developer
 **Neovest - Provo, UT**\
 _August 2012 - May 2014_
 
-- Designed, developed, and maintained large T-SQL database queries (including OATS) for reporting customer trading activity to brokerages and government agencies
+- Designed, developed, and maintained large T-SQL database queries (including OATS) for reporting customer trading activity to brokerages and government agencies (FINRA)
 - Developed desktop applications to aid various company teams with functions for database transactions, FTP download, zip extraction, XML output, and more
 
 ---
@@ -100,7 +100,7 @@ _Graduated 2012_
 
 - **Programming Languages:** .NET, SQL, JavaScript, Python
 - **Web Development:** HTML, CSS, TypeScript, Angular, React, Knockout.js
-- **Tools & Technologies:** Azure, Azure SQL, GraphQL, Firebase, Braintree, RestSharp, NLOG, Bootstrap, jQuery, Node.js, Nightwatch
+- **Tools & Technologies:** Azure, Azure SQL, GraphQL, Firebase, Braintree, Bootstrap, jQuery, Node.js, Pandas
 - **Domains:** E-commerce, MLM, Commissions, Data Wrangling
 
 ---
