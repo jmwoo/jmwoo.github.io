@@ -1,5 +1,7 @@
 ---
 title: Resume
+sidebar_content: |
+  <img src="/assets/images/jim-1.jpg" alt="James (Jimmy) Woolley" width="400"/>
 ---
 # James (Jimmy) Woolley
 ## Senior Software Developer, Utah
