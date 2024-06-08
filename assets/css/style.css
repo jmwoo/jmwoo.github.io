@@ -15,7 +15,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   display: inline-block;
   justify-content: space-between;
   align-items: center;
-  padding: 10px;
+  padding: 1em;
 }
 .navbar-links {
   display: flex;
