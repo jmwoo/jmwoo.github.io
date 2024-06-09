@@ -7,7 +7,7 @@ title: About
 
 My name is **Jimmy**, **James**, **Jim**, **Jimbo**, or **Jimmammoth**. 
 
-I love crafting and producing things: software, food, vegetable gardens, impeccable lawns, and more.
+I love making things, especially software.
 
 I write code to solve problems, yet I believe that often the best solution requires no code at all.
 
