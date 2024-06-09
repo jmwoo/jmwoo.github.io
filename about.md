@@ -5,7 +5,7 @@ title: About
 
 # Hello! 
 
-Hello! My name is Jimmy, James, Jim, Jimbo, or Jimmammoth. 
+My name is **Jimmy**, **James**, **Jim**, **Jimbo**, or **Jimmammoth**. 
 
 I love crafting and producing things: software, food, vegetable gardens, impeccable lawns, and more.
 

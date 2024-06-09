@@ -9,7 +9,7 @@ sidebar_content: |
 
 ---
 
-I am a dedicated software craftsman with a passion for creating efficient and effective software solutions. I excel in planning, developing, testing, and deploying software across various platforms. My experience spans from small startups to working with US government contractors on projects for the US Navy. I am authorized to work in the US for any employer.
+I am a dedicated software craftsman with a passion for creating technical solutions. I excel in planning, developing, testing, and deploying software across various platforms. My experience spans from small startups to working with US government contractors on projects for the US Navy. I am authorized to work in the US for any employer.
 
 ---
 
@@ -98,8 +98,8 @@ _Graduated 2012_
 
 # Skills
 
-- **Programming Languages:** .NET, SQL, JavaScript, Python
-- **Web Development:** HTML, CSS, TypeScript, Angular, React, Knockout.js
+- **Programming Languages:** C#, SQL, JavaScript/TypeScript, Python
+- **Web Development:** HTML, CSS, Angular, React, Knockout.js
 - **Tools & Technologies:** Azure, Azure SQL, GraphQL, Firebase, Braintree, Bootstrap, jQuery, Node.js, Pandas
 - **Domains:** E-commerce, MLM, Commissions, Data Wrangling
 
@@ -108,22 +108,3 @@ _Graduated 2012_
 # Certifications
 
 - Azure Fundamentals (AZ-900), 2021
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.12/marked.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-<button onclick="downloadPDF()">Download as PDF</button>
-<script>
-  async function downloadPDF() {
-    const response = await fetch('/resume');
-    const html = await response.text();
-    const { jsPDF } = window.jspdf;
-    const doc = new jsPDF();
-    doc.html(html, {
-        callback: function (doc) {
-            doc.save('resume.md');
-        },
-        x: 10,
-        y: 10
-    });
-  }
-</script>
