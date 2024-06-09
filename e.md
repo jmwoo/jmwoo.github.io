@@ -5,10 +5,10 @@ title: Ethos
 - be still
 - be humble
 - be grateful
-- be positivex
-- sr forever
-- retain and then project outward
+- be positive
+- $® 4 life
+- $® and then project outward
 - no need to consume all the time, produce
 
-- Build in other people’s realities
-- Test them, then learn from them
+- build in other people’s realities
+- test them, then learn from them
