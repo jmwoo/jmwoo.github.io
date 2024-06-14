@@ -7,10 +7,7 @@ title: About
 
 My name is **Jimmy**, **James**, **Jim**, **Jimbo**, or **Jimmammoth**. 
 
-I love making things, especially software.
-
-I write code to solve problems, yet I believe that often the best solution requires no code at all.
-
+I love making things, especially software. I write code to solve problems, yet I believe that often the best solution requires no code at all.
 Creating things that people love and find useful brings me joy. I delight in understanding others' needs and solving their problems.
 
 I’m passionate about technology, particularly robots, computers, and artificial intelligence. My love for computers began with a Macintosh in the early '90s. While MacBooks are my favorite, I also enjoy working with Windows and Linux, especially Raspberry Pis.
