@@ -7,6 +7,11 @@ title: About
 
 My name is **Jimmy**, **James**, **Jim**, **Jimbo**, or **Jimmammoth**. 
 
+<!-- <img src="https://imgur.com/BwUfdDc" alt="jimmamoth" max-width="400"/> -->
+
+<!-- <a href="https://imgur.com/BwUfdDc"><img src="https://i.imgur.com/BwUfdDc.jpg" title="source: imgur.com" /></a> -->
+![Alt Text](https://i.imgur.com/BwUfdDc.jpg)
+
 I love making things, especially software. I write code to solve problems, yet I believe that often the best solution requires no code at all.
 Creating things that people love and find useful brings me joy. I delight in understanding others' needs and solving their problems.
 
