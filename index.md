@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Personal Website
+# Welcome!
 
-The personal website of jmwoo
+to the personal website of Jimmy Woolley.
 
-You can find more about me [here](/about)
+You can find more about me [here](/about).
 
 ### More coming soon

@@ -108,3 +108,4 @@ _Graduated 2012_
 # Certifications
 
 - Azure Fundamentals (AZ-900), 2021
+- Security Clearance, 2020
