@@ -9,7 +9,16 @@ sidebar_content: |
 
 ---
 
-I am a dedicated software craftsman with a passion for creating technical solutions. I excel in planning, developing, testing, and deploying software across various platforms. My experience spans from small startups to working with US government contractors on projects for the US Navy. I am authorized to work in the US for any employer.
+I'm a software developer that loves making things. I design, develop, test, deploy, and monitor software of all kinds. My experience spans from dynamic startup projects to complex systems for the US Navy. I am authorized to work in the US for any employer. I have obtained a security clearance.
+
+---
+
+# Skills
+
+- **Programming Languages:** C#, SQL, JavaScript/TypeScript, Python
+- **Web Development:** HTML, CSS, jQuery, React, Knockout.js, Bootstrap
+- **Tools & Technologies:** Azure, SQL Server, GraphQL, jQuery, Node.js, Pandas
+- **Domains:** Web APIS, E-commerce, MLM, Commissions, Data Wrangling
 
 ---
 
@@ -93,15 +102,6 @@ _August 2012 - May 2014_
 ## BS in Software Engineering
 **Utah Valley University**\
 _Graduated 2012_
-
----
-
-# Skills
-
-- **Programming Languages:** C#, SQL, JavaScript/TypeScript, Python
-- **Web Development:** HTML, CSS, Angular, React, Knockout.js
-- **Tools & Technologies:** Azure, Azure SQL, GraphQL, Firebase, Braintree, Bootstrap, jQuery, Node.js, Pandas
-- **Domains:** E-commerce, MLM, Commissions, Data Wrangling
 
 ---
 
