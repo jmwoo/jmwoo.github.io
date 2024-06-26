@@ -23,7 +23,7 @@ Animals hold a special place in my heart. I have a dog and have raised chickens 
 
 I have a son who is 2 years old. He’s the greatest thing that’s ever happened to me.
 
-I grew up in Utah and have a deep love for the mountains. I enjoy snow skiing and water sports like boating, wakeboarding, and skiing. I’ve also lived in San Diego while working for the navy and absolutely love it there. I hope to buy a second home in San Diego someday (fingers crossed).
+I grew up in Utah and have a deep love for the mountains. I enjoy snow skiing and water sports like boating, wakeboarding, and skiing. I’ve also lived in San Diego while working for the navy and absolutely love it there. I hope to buy a second home in San Diego someday.
 
 I’m a huge fan of electronic vehicles. I had an ebike, but after an accident where I used the brake too hard and the wheel came off, breaking my collarbone, I sold it. I still have a Segway that I LOVE to ride and am planning to get another ebike soon. My next goal is to get an electric car and, eventually, a single-passenger electric drone.
 

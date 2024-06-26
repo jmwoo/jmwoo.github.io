@@ -43,6 +43,22 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   text-decoration: underline;
 }
 
+/* social links */
+.social-links a {
+  display: block;
+  align-items: center;
+  color: #333;
+  margin-bottom: 1em;
+  margin-left: 1em;
+}
+.social-links a:hover {
+  color:red;
+}
+
+.social-links a.handle {
+  margin-left: 1em;
+}
+
 /** 1. Correct `inline-block` display not defined in IE 8/9. 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera. */
 audio, canvas, progress, video { display: inline-block; /* 1 */ vertical-align: baseline; /* 2 */ }
 
