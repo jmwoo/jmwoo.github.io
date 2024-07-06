@@ -5,7 +5,6 @@ sidebar_content: |
 ---
 # James (Jimmy) Woolley
 ## Senior Software Developer, Utah
-## jamesmwoolley@gmail.com
 
 ---
 
