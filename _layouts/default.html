@@ -39,8 +39,10 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section>
-          <div id="success-message"></div>
-          <div id="failure-message"></div>
+          <div id="success-message" class="toast">
+            <i class="fa-regular fa-square-check"></i>
+            <span id="success-message-text"></span>
+          </div>
         </section>
         
 
@@ -76,22 +78,14 @@
 
     if (successMessage) {
       const element = document.getElementById('success-message');
-      element.innerHTML = successMessage;
-      element.style.display = 'block';
+      element.className = "toast show";
+
+      const textElement = document.getElementById('success-message-text');
+      textElement.innerHTML = successMessage;
 
       setTimeout(() => {
-        element.classList.add('fade-out');
-      }, 5000);
-
-      setTimeout(() => {
-        element.style.display = 'none';
-      }, 6000);
-    }
-
-    if (failureMessage) {
-      const element = document.getElementById('failure-message');
-      element.innerHTML = failureMessage;
-      element.style.display = 'block';
+        element.className = element.className.replace("show", "");
+      }, 3000);
     }
 
   </script>

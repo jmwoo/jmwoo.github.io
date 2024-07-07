@@ -94,22 +94,53 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #2268b3;
 }
 
-#success-message {
-  display: none;
-  color: green;
-  font-weight: bold;
-  opacity: 1;
-  transition: opacity 1s ease-in-out;
+/* toast messages */
+.toast {
+  visibility: hidden;
+  min-width: 250px;
+  background-color: #099e40;
+  color: #fff;
+  text-align: center;
+  border-radius: 2px;
+  position: fixed;
+  z-index: 1;
+  top: 10%;
+  left: 45%;
+  font-size: 20px;
+  white-space: nowrap;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 5px;
 }
-#success-message.fade-out {
-  opacity: 0;
+.toast.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
 }
 
-#failure-message {
-  display: none;
-  color: red;
-  font-weight: bold;
+@keyframes fadein {
+  from {top: 0; opacity: 0;}
+  to {top: 10%; opacity: 1;}
 }
+
+@keyframes fadeout {
+  from {top: 10%; opacity: 1;}
+  to {top: 0; opacity: 0;}
+}
+
+/* @-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+} */
+
+
+
+/* @-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+} */
 
 /** 1. Correct `inline-block` display not defined in IE 8/9. 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera. */
 audio, canvas, progress, video { display: inline-block; /* 1 */ vertical-align: baseline; /* 2 */ }
