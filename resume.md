@@ -14,7 +14,7 @@ I'm a software developer that loves making things. I design, develop, test, depl
 
 # Skills
 
-- **Programming Languages:** C#, SQL, JavaScript/TypeScript, Python
+- **Programming Languages:** C# (.NET/dotnet), SQL, JavaScript/TypeScript, Python
 - **Web Development:** HTML, CSS, jQuery, React, Angular, Knockout.js, Bootstrap
 - **Tools & Technologies:** Azure, SQL Server, GraphQL, Node.js, Pandas
 - **Domains:** Web APIS, E-commerce, MLM, Commissions, Data Wrangling
