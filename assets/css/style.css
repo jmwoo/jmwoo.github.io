@@ -60,7 +60,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 /* contact form */
 .contact-form {
-  max-width: 500px;
   margin-bottom: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -78,7 +77,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   font-size: 16px;
 }
 .contact-form textarea {
-  height: 150px;
+  height: 100px;
   resize: vertical;
 }
 .contact-form input[type="submit"] {
