@@ -44,18 +44,21 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 /* social links */
+.social-links ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.social-links li {
+  display: inline;
+  margin-right: .5em;
+}
 .social-links a {
-  display: block;
   align-items: center;
   color: #333;
   margin-bottom: 1em;
 }
 .social-links a:hover {
   color:red;
-}
-
-.social-links a.handle {
-  margin-left: 1em;
 }
 
 /* contact form */
