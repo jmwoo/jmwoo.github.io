@@ -56,12 +56,12 @@
           {{ page.sidebar_content | markdownify }}
         </aside>
         {% endif %}
+
+        <footer>
+          {{ site.time | date: '%Y' }}
+        </footer>
       </div>
     </div>
-
-    <footer>
-      {{ site.time | date: '%Y' }}
-    </footer>
 
   </body>
 
