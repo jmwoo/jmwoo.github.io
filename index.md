@@ -3,10 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome!
+# Hey there!
 
-to the personal website of Jimmy Woolley.
+I'm Jimmy Woolley.
 
 You can find more about me [here](/about).
-
-### More coming soon

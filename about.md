@@ -5,7 +5,7 @@ title: About
 
 # Hello! 
 
-My name is **Jimmy**, **James**, **Jim**, **Jimbo**, or **Jimmammoth**. 
+My name is **Jimmy**, **Jim**, **James** Woolley.
 
 <img src="https://imgur.com/BwUfdDc.jpg" alt="jimmammoth" style="max-width: 50%"/>
 
