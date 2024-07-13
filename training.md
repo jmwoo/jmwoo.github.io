@@ -3,7 +3,7 @@
 ## Objectives
 1. General Fitness and Health
 2. Sexy Physique
-3. Flexibilty and Mobility
+3. Flexibility and Mobility
 
 ## Strategy
 - hit all major muscle groups once per week
@@ -44,9 +44,9 @@
 - planks
 
 ## 5 - Other (things that were missed and/or glamour muscles)
-- dumbell bicep curls
+- dumbbell bicep curls
 - tricep pull downs
 - barbell bicep curls
-- skullcrushers
+- skull crushers
 - crunches
 - leg raises

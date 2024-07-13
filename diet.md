@@ -1,13 +1,13 @@
-# Diet
+# Diet Plan
 
 ## Objectives
-1. nutricious
+1. nutritious
 2. simple
 3. delicious
 4. lose body fat
 5. inexpensive
 
-## Daily Macronutrients Target
+## Daily Macro Nutrients Target
 - protein: 219 grams
 - carbohydrates: 241 grams
 - fats: 54 grams
@@ -24,7 +24,7 @@
 - 10 oz chicken breast
 - 1 cup rice
 - 1 cup carrots
-- 1 container hummice
+- 1 container hummus
 
 ## Meal 3
 - 10 oz salmon
