@@ -1,4 +1,4 @@
-# Workout Plan
+# Training Plan
 
 ## Objectives
 1. General Fitness and Health

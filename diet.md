@@ -14,10 +14,9 @@
 - total calories: 2320
 
 ## Meal 1
-- overnight oats
-	- 1 cup skim milk 
-	- 1 cup oats
-	- 2 scoops protein powder
+- 1 cup skim milk 
+- 1 cup oats
+- 2 scoops protein powder
 - 1 banana
 - 1/2 cup berries
 
