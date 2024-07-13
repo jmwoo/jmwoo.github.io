@@ -9,9 +9,11 @@
 - hit all major muscle groups once per week
 - do the hardest, compound lift first, it's the most important
 - movements should be slow and in control, focus on feeling both the concentric and eccentric muscle contractions
+- a little core training every day, it's important for posture and sedentary jobs
 - rest on saturday and sunday
 
 ## 1 - Chest
+- warm up 10 min incline walk on treadmill
 - chest press (flat/decline/incline bar/dumbbell)
 - machine chest flies
 - machine press
@@ -19,8 +21,9 @@
 - planks
 
 ## 2 - Back
+- warm up 10 min incline walk on treadmill
 - wide grip pulldowns
-- machine rows (not cable machine, those hurt)
+- machine rows (not cable machine those hurt)
 - ISO lateral front lat pulldown
 - ISO lateral row (machine)
 - shrugs
@@ -28,6 +31,7 @@
 - flutter kicks
 
 ## 3 - Shoulders
+- warm up 10 min incline walk on treadmill
 - shoulder press
 - lateral raises
 - reverse flies
@@ -35,6 +39,7 @@
 - crunches
 
 ## 4 - Legs
+- warm up 10 min incline walk on treadmill
 - leg press
 - leg extensions
 - leg curls
@@ -43,7 +48,8 @@
 - calf raises
 - planks
 
-## 5 - Other (things that were missed and/or glamour muscles)
+## 5 - Arms (and anything that was missed)
+- warm up 10 min incline walk on treadmill
 - dumbbell bicep curls
 - tricep pull downs
 - barbell bicep curls
