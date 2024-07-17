@@ -43,22 +43,29 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   text-decoration: underline;
 }
 
-/* social links */
-.social-links ul {
+.link-list ul {
   list-style-type: none;
   padding-left: 0;
 }
-.social-links li {
+.link-list li {
   display: inline;
   margin-right: .5em;
 }
-.social-links a {
+.link-list a {
   align-items: center;
-  color: #333;
   margin-bottom: 1em;
 }
-.social-links a:hover {
+
+a {
+  color: #333;
+  text-decoration: underline;
+}
+a:hover {
   color:red;
+}
+
+.social-links li a {
+  text-decoration: none;
 }
 
 /* contact form */
@@ -393,10 +400,6 @@ body { margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, serif; font-s
 
 p { margin-top: 0; }
 
-a { color: #2879d0; }
-
-a:hover { color: #2268b2; }
-
 header { 
   position: -webkit-sticky; /* For Safari */
   position: sticky;
@@ -480,8 +483,6 @@ h5:before { padding-right: 0.3em; margin-left: -3.2em; color: #9ddcff; }
 h6:before { padding-right: 0.3em; margin-left: -3.7em; color: #9ddcff; }
 
 p { margin-bottom: 20px; }
-
-a { text-decoration: none; }
 
 p a { font-weight: 400; }
 

@@ -3,10 +3,6 @@ layout: default
 title: About
 ---
 
-# Hello! 
-
-My name is **Jimmy**, **Jim**, **James** Woolley.
-
 <img src="https://imgur.com/BwUfdDc.jpg" alt="jimmammoth" style="max-width: 50%"/>
 
 I love making things, especially software. I write code to solve problems, yet I believe that often the best solution requires no code at all.

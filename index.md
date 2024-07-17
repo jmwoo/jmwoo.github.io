@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hey there!
+# Hello!
 
 I'm Jimmy Woolley.
 
