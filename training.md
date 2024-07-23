@@ -13,7 +13,7 @@
 - rest on saturday and sunday
 
 ## 1 - Chest
-- warm up 10 min incline walk on treadmill
+- warm up: 10 min incline walk on treadmill, stretches - hip flexor, hamstrings, squat
 - chest press (flat/decline/incline bar/dumbbell)
 - machine chest flies
 - machine press
@@ -21,7 +21,8 @@
 - planks
 
 ## 2 - Back
-- warm up 10 min incline walk on treadmill
+- warm up: 10 min incline walk on treadmill, stretches - hip flexor, hamstrings, squat
+- trap bar deadlift
 - wide grip pulldowns
 - machine rows (not cable machine those hurt)
 - ISO lateral front lat pulldown
@@ -31,7 +32,7 @@
 - flutter kicks
 
 ## 3 - Shoulders
-- warm up 10 min incline walk on treadmill
+- warm up: 10 min incline walk on treadmill, stretches - hip flexor, hamstrings, squat
 - shoulder press
 - lateral raises
 - reverse flies
@@ -39,7 +40,7 @@
 - crunches
 
 ## 4 - Legs
-- warm up 10 min incline walk on treadmill
+- warm up: 10 min incline walk on treadmill, stretches - hip flexor, hamstrings, squat
 - leg press
 - leg extensions
 - leg curls
@@ -49,7 +50,7 @@
 - planks
 
 ## 5 - Arms (and anything that was missed)
-- warm up 10 min incline walk on treadmill
+- warm up: 10 min incline walk on treadmill, stretches - hip flexor, hamstrings, squat
 - dumbbell bicep curls
 - tricep pull downs
 - barbell bicep curls
