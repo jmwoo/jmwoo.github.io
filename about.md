@@ -19,13 +19,13 @@ I love technology like robots, computers, and artificial intelligence. My love f
 <img src="https://i.imgur.com/Ailg6dU.jpeg" alt="son" style="max-width: 50%"/>
 
 I enjoy working out. I like the way it makes me feel and look.  
-Check out my current [diet plan](/diet) and [training plan](/training).
+Check out my current [diet](/diet) and [training plan](/training).
 
 <img src="https://i.imgur.com/r91EP3k.jpg" alt="gym" style="max-width: 50%"/>
 
 I love owning a home and sculpting it to fit my tastes exactly. I strive for a home that is safe, functional, and a joy to live in. I like to care for quality things to make them last. I enjoy lawns, vegetable gardens, fruit trees, backyard chicken amd flowers. I like controlling my sprinklers and AC with an app.
 
-Animals hold a special place in my heart. I've had a dog for most of my life and I've raised chickens (with plans to get more soon). One day I want to get a cat. I enjoy zoos, aquariums, nature, and safaris. I’ve seen elephants, rhinos, hippos and leapords in the wild. in the wild and was once bitten by a lion cub.
+Animals hold a special place in my heart. I've had a dog for most of my life and I've raised chickens (with plans to get more soon). One day I want to get a cat. I enjoy zoos, aquariums, nature, and safaris. I’ve seen elephants, rhinos, hippos and leapords in the wild. I was once bitten by a lion cub.
 
 <img src="https://i.imgur.com/SnEMQZj.gif" alt="gym" style="max-width: 50%"/>
 
