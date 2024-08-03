@@ -5,10 +5,10 @@ title: About
 
 <img src="https://imgur.com/BwUfdDc.jpg" alt="jimmammoth" style="max-width: 50%"/>
 
-I love making things, especially software. I write code to solve problems, yet I believe that often the best solution requires no code at all.
+I love making things, especially software. I write code to solve problems, yet I believe that the best solution requires no code at all.
 Creating things that people love brings me joy.
 
-I love technology: robots, computers, artificial intelligence. My love for computers began with a Macintosh in the early '90s. While MacBooks are my favorite, I like and use Windows and Linux Raspberry Pis are really cool!
+I love technology like robots, computers, and artificial intelligence. My love for computers began with a Macintosh in the early '90s. MacBooks are my favorite, but I use and like Windows and Linux. Raspberry Pis are really cool!
 
 <img src="https://i.imgur.com/tRKlsCo.jpg" alt="coding" style="max-width: 50%"/>
 
@@ -18,14 +18,14 @@ I love technology: robots, computers, artificial intelligence. My love for compu
 
 <img src="https://i.imgur.com/Ailg6dU.jpeg" alt="son" style="max-width: 50%"/>
 
-I enjoy working out. I like the way it makes my body feel and look.  
+I enjoy working out. I like the way it makes me feel and look.  
 Check out my current [diet plan](/diet) and [training plan](/training).
 
 <img src="https://i.imgur.com/r91EP3k.jpg" alt="gym" style="max-width: 50%"/>
 
 I love owning a home and sculpting it to fit my tastes exactly. I strive for a home that is safe, functional, and a joy to live in. I like to care for quality things to make them last. I enjoy lawns, vegetable gardens, fruit trees, backyard chicken amd flowers. I like controlling my sprinklers and AC with an app.
 
-Animals hold a special place in my heart. I've had a dog for most of my life and i've raised chickens (with plans to get more soon). One day I want to get a cat. I enjoy zoos, aquariums, nature, and safaris. I’ve seen elephants, rhinos, and hippos in the wild and was once bitten by a lion cub.
+Animals hold a special place in my heart. I've had a dog for most of my life and I've raised chickens (with plans to get more soon). One day I want to get a cat. I enjoy zoos, aquariums, nature, and safaris. I’ve seen elephants, rhinos, hippos and leapords in the wild. in the wild and was once bitten by a lion cub.
 
 <img src="https://i.imgur.com/SnEMQZj.gif" alt="gym" style="max-width: 50%"/>
 
@@ -35,7 +35,7 @@ I grew up in Utah and have a deep love for the mountains. I enjoy snow skiing an
 <img src="https://i.imgur.com/xNiPG3K.jpg" alt="beach" style="max-width: 50%"/>
 
 I’m a huge fan of (electric)
-vehicles. I have an e-bike and a segway that I LOVE to ride.  My next goal is to get an electric car and, eventually, a piloted electric drone.
+vehicles. I have an e-bike and a segway that I LOVE to ride.  My next goal is to get an electric car and, eventually, a passenger drone.
 
 <img src="https://i.imgur.com/qZOpZfD.jpg" alt="bike" style="max-width: 50%"/>
 
@@ -65,9 +65,9 @@ On the other hand, I LOVE YouTube. I enjoy long-form interviews with interesting
 	<iframe class="video-embed" src="https://www.youtube.com/embed/VISVshpMg6s?si=yLoU450Po7alobSy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-I deeply admire Elon Musk, the GOAT entrepreneur and internet troll. I look up to builders of all kinds who can take ideas and make them a reality.
+I admire Elon Musk, the GOAT entrepreneur and internet troll. I look up to builders of all kinds who can take ideas and make them a reality.
 
-I want to understand the world as much as possible. I care about it and want to make it a better place. I want enjoy my precious time while I'm here.
+I want to understand the world as much as possible. I would like to make it a better place and enjoy my precious time while I'm here.
 
 
 <script>
