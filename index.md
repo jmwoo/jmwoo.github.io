@@ -13,4 +13,4 @@ You can find more about me [here](/about).
 
 I'm trying a new [diet](/diet).
 
-he're's my [training program)/training.
+here's my [training program)(/training).
