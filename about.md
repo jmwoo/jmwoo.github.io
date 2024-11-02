@@ -94,7 +94,7 @@ I want to understand the world as much as possible. I would like to make it a be
 				months += 12;
 			}
 
-			const ageString = `${years} year${years !== 1 ? 's' : ''}, ${months} month${months !== 1 ? 's' : ''}, and ${days} day${days !== 1 ? 's' : ''}`;
+			const ageString = `${years} year${years !== 1 ? 's' : ''} and ${months} month${months !== 1 ? 's' : ''}}`;
 			const fullAgeString = `${ageString} (${decimalAge} years)`;
 			
 			document.getElementById('son-age').textContent = fullAgeString;
