@@ -5,12 +5,16 @@ title: Contact
 
 # Contact
 
-<form class="contact-form" action="https://api.staticforms.xyz/submit" method="post">
-	<input type="text" name="email" placeholder="Email" required />
-	<textarea name="message" placeholder="Message" required ></textarea>
-	<input type="text" name="honeypot" style="display: none;">
-	<input type="hidden" name="accessKey" value="acae2770-b574-49b9-82a4-41644158490e">
-	<input type="hidden" name="redirectTo" value="https://jimmammoth.com/contact?success-message=Thanks%20for%20the%20message!">
-	<input type="hidden" name="replyTo" value="@">
-	<input type="submit" value="Send" />
-</form>
+<div class="link-list social-links">
+	<ul>
+		<li><a href="https://github.com/jmwoo" target="_blank"><i class="fa-brands fa-github"></i></a></li>
+		<li><a href="https://www.linkedin.com/in/jimmy-woolley-4a485b16/" target="_blank"><i
+					class="fa-brands fa-linkedin"></i></a></li>
+		<li><a href="https://x.com/jimmammoth" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+		</li>
+		<li><a href="https://www.instagram.com/jimmammoth" target="_blank"><i
+					class="fa-brands fa-instagram fa-lg"></i></a></li>
+		<li><a href="https://www.snapchat.com/add/jimmammoth" target="_blank"><i
+					class="fa-brands fa-snapchat fa-lg"></i></a></li>
+	</ul>
+</div>
