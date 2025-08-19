@@ -48,6 +48,6 @@
 - Holdings vary - no target percentages (not actively contributing)
 
 ### Periodic Adjustment
-- Buy [SCHE](https://www.schwabassetmanagement.com/products/sche) with any remaining cash
-- Once a year (early December): tax loss harvest - sell any lots at a loss and buy [SCHE](https://www.schwabassetmanagement.com/products/sche)
+- Buy [SCHG](https://www.schwabassetmanagement.com/products/schg) with any remaining cash
+- Once a year (early December): tax loss harvest - sell any lots at a loss and buy [SCHG](https://www.schwabassetmanagement.com/products/schg)
 - Note: Only [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) for tax efficiency
