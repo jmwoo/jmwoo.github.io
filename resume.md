@@ -8,6 +8,8 @@ sidebar_content: |
 
 ---
 
+# About
+
 I'm a software developer that loves making things. I design, develop, test, deploy, and monitor software of all kinds. My experience spans from dynamic startup projects to complex systems for the US Navy. I am authorized to work in the US for any employer. I have obtained a security clearance.
 
 ---
