@@ -52,6 +52,31 @@ header {
   margin-bottom: 3rem;
 }
 
+/* Sidebar layout */
+#main-content {
+  float: left;
+  width: 65%;
+}
+
+#sidebar {
+  float: right;
+  width: 30%;
+  padding-left: 20px;
+}
+
+#sidebar img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* Clearfix for layout */
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
@@ -60,12 +85,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #333;
 }
 
-h1 { font-size: 2.5rem; }
-h2 { font-size: 2rem; }
-h3 { font-size: 1.5rem; }
-h4 { font-size: 1.25rem; }
-h5 { font-size: 1.1rem; }
-h6 { font-size: 1rem; }
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4 { font-size: 1.1rem; }
+h5 { font-size: 1rem; }
+h6 { font-size: 0.9rem; }
 
 p {
   margin-bottom: 1rem;
@@ -268,9 +293,20 @@ footer a:hover {
     gap: 1rem;
   }
   
-  h1 { font-size: 2rem; }
-  h2 { font-size: 1.75rem; }
-  h3 { font-size: 1.25rem; }
+  /* Mobile: stack main content and sidebar */
+  #main-content, #sidebar {
+    float: none;
+    width: 100%;
+    padding-left: 0;
+  }
+  
+  #sidebar {
+    margin-top: 2rem;
+  }
+  
+  h1 { font-size: 1.6rem; }
+  h2 { font-size: 1.4rem; }
+  h3 { font-size: 1.2rem; }
   
   .link-list ul,
   .social-links ul {
