@@ -17,7 +17,7 @@
 - **[SCHG](https://www.schwabassetmanagement.com/products/schg) - 15%**
 - **[SCHE](https://www.schwabassetmanagement.com/products/sche) - 15%**
 - **[SCHA](https://www.schwabassetmanagement.com/products/scha) - 10%**
-- **[SCHZ](https://www.schwabassetmanagement.com/products/schz) - 5%**
+- **[SCHO](https://www.schwabassetmanagement.com/products/scho) - 5%**
 
 ---
 ## Roth IRA
