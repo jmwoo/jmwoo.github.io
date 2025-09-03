@@ -1,53 +1,28 @@
 # 2025 Investment Strategy
 
 ---
-## Solo 401k (Roth)
+## Roth Individual 401(k)
 
-### Auto-Invested Funds
-- **[SWTSX](https://www.schwabassetmanagement.com/products/swtsx) - 40%**
-- **[SWLGX](https://www.schwabassetmanagement.com/products/swlgx) - 25%**
-- **[SWISX](https://www.schwabassetmanagement.com/products/swisx) - 10%**
-- **[SWVXX](https://www.schwabassetmanagement.com/products/swvxx) - 20%** *(temporary holding)*
-
-### Manually Purchased (from [SWVXX](https://www.schwabassetmanagement.com/products/swvxx))
-- **[FBTC](https://www.fidelity.com/etfs/crypto-funds) - 15%**
-- **[SCHE](https://www.schwabassetmanagement.com/products/sche) - 5%**
-
-### Periodic Adjustment
-- Sell [SWVXX](https://www.schwabassetmanagement.com/products/swvxx) to buy 75% [FBTC](https://www.fidelity.com/etfs/crypto-funds), 25% [SCHE](https://www.schwabassetmanagement.com/products/sche) (15% / 5% split of the 20% allocation)
+- **[FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) - 45%**
+- **[FTIHX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638) - 25%**
+- **[FTEC](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FTEC) - 15%**
+- **[FSSNX](https://fundresearch.fidelity.com/mutual-funds/summary/316146182) - 10%**
+- **[FBTC](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC) - 5%**
 
 ---
 ## Traditional IRA
 
-### Auto-Invested Funds
-- **[SWTSX](https://www.schwabassetmanagement.com/products/swtsx) - 65%**
-- **[SWISX](https://www.schwabassetmanagement.com/products/swisx) - 15%**
-- **[SWVXX](https://www.schwabassetmanagement.com/products/swvxx) - 20%** *(temporary holding)*
-
-### Manually Purchased (from [SWVXX](https://www.schwabassetmanagement.com/products/swvxx))
-- **[SCHE](https://www.schwabassetmanagement.com/products/sche) - 20%**
-
-### Periodic Adjustment
-- Sell [SWVXX](https://www.schwabassetmanagement.com/products/swvxx) to buy [SCHE](https://www.schwabassetmanagement.com/products/sche)
+- **[SCHB](https://www.schwabassetmanagement.com/products/schb) - 35%**
+- **[SCHF](https://www.schwabassetmanagement.com/products/schf) - 20%**
+- **[SCHG](https://www.schwabassetmanagement.com/products/schg) - 15%**
+- **[SCHE](https://www.schwabassetmanagement.com/products/sche) - 15%**
+- **[SCHA](https://www.schwabassetmanagement.com/products/scha) - 10%**
+- **[SCHZ](https://www.schwabassetmanagement.com/products/schz) - 5%**
 
 ---
 ## Roth IRA
 
-### Allocations
-- **[SCHB](https://www.schwabassetmanagement.com/products/schb) - 60%**
+- **[SCHB](https://www.schwabassetmanagement.com/products/schb) - 50%**
 - **[SCHG](https://www.schwabassetmanagement.com/products/schg) - 20%**
-- **[FBTC](https://www.fidelity.com/etfs/crypto-funds) - 20%**
-
-### Periodic Adjustment
-- No monthly action - not actively contributing
-
----
-## Brokerage (Taxable)
-
-### Allocations
-- Holdings vary - no target percentages (not actively contributing)
-
-### Periodic Adjustment
-- Buy [SCHG](https://www.schwabassetmanagement.com/products/schg) with any remaining cash
-- Once a year (early December): tax loss harvest - sell any lots at a loss and buy [SCHG](https://www.schwabassetmanagement.com/products/schg)
-- Note: Only [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) for tax efficiency
+- **[FBTC](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC) - 15%**
+- **[SCHA](https://www.schwabassetmanagement.com/products/scha) - 10%**
