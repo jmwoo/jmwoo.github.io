@@ -1,0 +1,15 @@
+- Sleep Program
+	- finish last meal before 7pm
+	- start "wind down" routine at 9pm
+		- no screens
+		- read book
+		- breathe deeply
+		- only red or amber lighting
+	- bedtime at 10pm, use eye mask
+	- breathe 4s in 6s out
+	- if wakeup, breathe routine and count to 100
+	- morning ~6am
+		- 1 can coldbrew
+		- prayer
+		- meditate
+		- morning light
