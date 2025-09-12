@@ -3,18 +3,17 @@
 ---
 ## Roth Individual 401(k)
 
-- **55% [`FSKAX` Fidelity Total Market Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/315911693)**
-- **25% [`FTEC` Fidelity MSCI Information Technology Index ETF](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FTEC)**
-- **15% [`FSSNX` Fidelity Small Cap Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/316146182)**
+- **50% [`FSKAX` Fidelity Total Market Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/315911693)**
+- **25% [`FTIHX` Fidelity Total International Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638)** 
+- **20% [`FTEC` Fidelity MSCI Information Technology Index ETF](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FTEC)**
 - **5% [`FBTC` Fidelity Wise Origin Bitcoin Fund](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC)**
 
 ---
 ## Traditional IRA
 
-- **55% [`SWTSX` Schwab Total Stock Market Index Fund](https://www.schwabassetmanagement.com/products/swtsx)**
+- **50% [`SWTSX` Schwab Total Stock Market Index Fund](https://www.schwabassetmanagement.com/products/swtsx)**
 - **30% [`SWLGX` Schwab U.S. Large-Cap Growth Index Fund](https://www.schwabassetmanagement.com/products/swlgx)**
-- **15% [`SWSSX` Schwab Small-Cap Index Fund](https://www.schwabassetmanagement.com/products/swssx)**
-
+- **20% [`SWSSX` Schwab Small-Cap Index Fund](https://www.schwabassetmanagement.com/products/swssx)**
 
 ---
 ## Roth IRA
