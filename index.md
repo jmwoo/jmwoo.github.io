@@ -11,6 +11,6 @@ I'm Jimmy Woolley.
 
 You can find more about me [here](/about).
 
-I'm trying a new [diet](/diet).
+I'm trying a new [diet](/diet) and [training program](/training).
 
-Here's my [training plan](/training).
+Here's my [investment strategy](/invest).
