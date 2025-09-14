@@ -16,6 +16,6 @@
 ---
 ## Roth IRA
 
-- **60% [`SCHB` Schwab U.S. Broad Market ETF](https://www.schwabassetmanagement.com/products/schb)**
-- **30% [`SCHG` Schwab U.S. Large-Cap Growth ETF](https://www.schwabassetmanagement.com/products/schg)**
+- **60% [`SWTSX` Schwab Total Stock Market Index Fund](https://www.schwabassetmanagement.com/products/swtsx)**
+- **30% [`SWLGX` Schwab U.S. Large-Cap Growth Index Fund](https://www.schwabassetmanagement.com/products/swlgx)**
 - **10% [`FBTC` Fidelity Wise Origin Bitcoin Fund](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC)**
