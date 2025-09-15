@@ -4,8 +4,7 @@
 ## Roth Individual 401(k)
 
 - **70% [`FSKAX` Fidelity Total Market Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/315911693)**
-- **20% [`FTIHX` Fidelity Total International Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638)**
-- **5% [`FTEC` Fidelity MSCI Information Technology Index ETF](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FTEC)**
+- **25% [`FTEC` Fidelity MSCI Information Technology Index ETF](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FTEC)**
 - **5% [`FBTC` Fidelity Wise Origin Bitcoin Fund](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC)**
 
 ---
