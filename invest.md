@@ -12,9 +12,10 @@
 ---
 ## Traditional IRA
 
-- **65% [`SWTSX` Schwab Total Stock Market Index Fund](https://www.schwabassetmanagement.com/products/swtsx)**
+- **60% [`SWTSX` Schwab Total Stock Market Index Fund](https://www.schwabassetmanagement.com/products/swtsx)**
 - **25% [`SWLGX` Schwab U.S. Large-Cap Growth Index Fund](https://www.schwabassetmanagement.com/products/swlgx)**
 - **10% [`SWISX` Schwab International Index Fund](https://www.schwabassetmanagement.com/products/swlgx)**
+- **5% [`SFENX` Schwab Fundamental Emerging Markets Equity Index Fund](https://www.schwabassetmanagement.com/products/sfenx)**
 
 ---
 ## Roth IRA
