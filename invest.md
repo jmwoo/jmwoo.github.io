@@ -17,7 +17,8 @@
 ## Traditional 401(k)
 
 - **70% [`FSKAX` Fidelity Total Market Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/315911693)**
-- **30% [`FTEC` Fidelity MSCI Information Technology Index ETF](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FTEC)**
+- **25% [`FTEC` Fidelity MSCI Information Technology Index ETF](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FTEC)**
+- **5% [`FBTC` Fidelity Wise Origin Bitcoin Fund](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC)**
 
 ---
 ## Roth 401(k)
