@@ -25,17 +25,17 @@ Check out my current [diet](/diet) and [training plan](/training).
 
 I love owning a home and sculpting it to fit my tastes exactly. I strive for a home that is safe, functional, and a joy to live in. I like to care for quality things to make them last. I enjoy lawns, vegetable gardens, fruit trees, backyard chicken amd flowers. I like controlling my sprinklers and AC with an app.
 
-Animals hold a special place in my heart. I've had a dog for most of my life and I've raised chickens (with plans to get more soon). One day I want to get a cat. I enjoy zoos, aquariums, nature, and safaris. I’ve seen elephants, rhinos, hippos and leapords in the wild. I was once bitten by a lion cub.
+Animals hold a special place in my heart. I've had a dog for most of my life and I've raised chickens. I have a Buff Orpington and an Easter Egger right now. One day I want to get a cat. I enjoy zoos, aquariums, nature, and safaris. I’ve seen elephants, rhinos, hippos and leopards in the wild. I was once bitten by a lion cub.
 
 <img src="https://i.imgur.com/SnEMQZj.gif" alt="gym" style="max-width: 50%"/>
 
-I grew up in Utah and have a deep love for the mountains. I enjoy snow skiing and water sports like boating, wakeboarding, and skiing. I’ve also lived in San Diego while working for the navy and absolutely love it there. The ocean and beach are majestic.  I hope to buy a second home in San Diego someday.
+I grew up in Utah and have a deep love for the mountains. I enjoy snow skiing and water sports like boating, wakeboarding, and skiing. I’ve also lived in San Diego while working for the United States Navy and absolutely love it there. The ocean and beach are majestic.  I hope to buy a second home in San Diego someday.
 
 <img src="https://i.imgur.com/m9XQcjv.jpg" alt="skiing" style="max-width: 50%"/>
 <img src="https://i.imgur.com/xNiPG3K.jpg" alt="beach" style="max-width: 50%"/>
 
 I’m a huge fan of (electric)
-vehicles. I have an e-bike and a segway that I LOVE to ride.  My next goal is to get an electric car and, eventually, a passenger drone.
+vehicles. Isn't electricity so cool?! I used to have an e-bike that I loved, but I got hit by a car. I had a segway that I LOVED to ride; it was stolen!  My next goal is to get an electric car and, eventually, an autonomous passenger drone.  
 
 <img src="https://i.imgur.com/qZOpZfD.jpg" alt="bike" style="max-width: 50%"/>
 
