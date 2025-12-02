@@ -5,14 +5,14 @@
 
 - **70% [`SWTSX` Schwab Total Stock Market Index Fund](https://www.schwabassetmanagement.com/products/swtsx)**
 - **15% [`SWLGX` Schwab Large-Cap Growth Index Fund](https://www.schwabassetmanagement.com/products/swlgx)**
-- **15% [`SFENX` Schwab Fundamental Emerging Markets Equity Index Fund](https://www.schwabassetmanagement.com/products/sfenx)**
+- **15% [`SCHE` Schwab Emerging Markets Equity ETF](https://www.schwabassetmanagement.com/products/sche)**
 
 ---
 ## Roth IRA
 
 - **60% [`SWTSX` Schwab Total Stock Market Index Fund](https://www.schwabassetmanagement.com/products/swtsx)**
 - **15% [`SWLGX` Schwab Large-Cap Growth Index Fund](https://www.schwabassetmanagement.com/products/swlgx)**
-- **15% [`SFENX` Schwab Fundamental Emerging Markets Equity Index Fund](https://www.schwabassetmanagement.com/products/sfenx)**
+- **15% [`SCHE` Schwab Emerging Markets Equity ETF](https://www.schwabassetmanagement.com/products/sche)**
 - **10% [`FBTC` Fidelity Wise Origin Bitcoin Fund](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC)**
 
 ---
