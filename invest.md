@@ -24,15 +24,16 @@
 
 # Thesis
 
-## Total Market Foundation ([SWTSX](https://www.schwabassetmanagement.com/products/swtsx) / [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693))
+## Foundation
 
-- Owns the entire investable U.S. equity market
+### Total Market Funds ([SWTSX](https://www.schwabassetmanagement.com/products/swtsx) / [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693))
+- Own the entire investable U.S. equity market
 - Automatically captures future winners that cannot be predicted today
 - Continuously rebalances as companies rise and fall
 - Provides broad diversification and downside resilience
 - Serves as the primary engine of long-term compounding
 
-## 3 Targeted Conviction Bets
+## Targeted Conviction Bets
 
 ### 1. Large-Cap Growth & AI Dominance Will Continue ([SWLGX](https://www.schwabassetmanagement.com/products/swlgx))
 - Mega-cap tech platforms have durable competitive moats
