@@ -49,7 +49,6 @@
 
 ### 2. Small-Cap Value Will Mean Revert ([FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773))
 - Historically among the highest long-term returning equity factors
-- Currently out of favor after prolonged underperformance
 - Provides diversification and low correlation to large-cap growth
 
 ### 3. Bitcoin will become a legitimate store of value ([FBTC](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC))
