@@ -61,7 +61,7 @@
 
 ### Don’t touch it
 - No new funds
-- Do not remove or reduce a position due to performance
+- Do not add increase or reduce a position due to performance
 - Do not respond to news, narratives, or short-term market cycles
 - Do not optimize further, thinking more will reduce returns
 
@@ -77,4 +77,4 @@
 - These outcomes are normal and required for long-term excess returns
 - Success will come through discipline, not prediction
 
-### Contribute often. Rebalance annually. Do nothing else. Chill :)
+### Contribute often. Rebalance annually. Do nothing else. <br /> Chill 😎

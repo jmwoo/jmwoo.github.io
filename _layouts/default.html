@@ -4,10 +4,15 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="preload" href="/assets/images/utah-mammoth-logo.svg" as="image" type="image/svg+xml">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -24,11 +29,12 @@
         <nav class="navbar">
           <div class="navbar-links" id="navbar-links">
             <ul>
-              <li><a href="/">home</a></li>
+              <li><a href="/" class="logo-link"><img src="/assets/images/utah-mammoth-logo.svg" alt="Utah Mammoth Logo" class="header-logo" style="transform: scaleX(-1);" width="44" height="32"></a></li>
               <li><a href="/about">about</a></li>
               <li><a href="/resume">resume</a></li>
               <li><a href="/blog">blog</a></li>
               <li><a href="/contact">contact</a></li>
+              <li><a href="/" class="logo-link"><img src="/assets/images/utah-mammoth-logo.svg" alt="Utah Mammoth Logo" class="header-logo" width="44" height="32"></a></li>
             </ul>
           </div>
         </nav>

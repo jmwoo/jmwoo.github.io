@@ -1,43 +1,36 @@
 ---
 layout: default
 title: About
+sidebar_content: |
+  <img src="https://i.imgur.com/tRKlsCo.jpg" alt="coding" style="max-width: 100%; margin-bottom: 20px;"/>
+  <img src="https://i.imgur.com/Ailg6dU.jpeg" alt="son" style="max-width: 100%; margin-bottom: 20px;"/>
+  <img src="https://i.imgur.com/r91EP3k.jpg" alt="gym" style="max-width: 100%; margin-bottom: 20px;"/>
+  <img src="https://i.imgur.com/SnEMQZj.gif" alt="safari" style="max-width: 100%; margin-bottom: 20px;"/>
+  <img src="https://i.imgur.com/m9XQcjv.jpg" alt="skiing" style="max-width: 100%; margin-bottom: 20px;"/>
+  <img src="https://i.imgur.com/xNiPG3K.jpg" alt="beach" style="max-width: 100%; margin-bottom: 20px;"/>
+  <img src="https://i.imgur.com/qZOpZfD.jpg" alt="bike" style="max-width: 100%; margin-bottom: 20px;"/>
 ---
-
-<img src="https://imgur.com/BwUfdDc.jpg" alt="jimmammoth" style="max-width: 50%"/>
 
 I love making things, especially software. I write code to solve problems, yet I believe that the best solution requires no code at all.
 Creating things that people love brings me joy.
 
 I love technology like robots, computers, and artificial intelligence. My love for computers began with a Macintosh in the early '90s. MacBooks are my favorite, but I use and like Windows and Linux. Raspberry Pis are really cool!
 
-<img src="https://i.imgur.com/tRKlsCo.jpg" alt="coding" style="max-width: 50%"/>
-
 <p>
-	I have a son who is <span id="son-age">x</span> old. He’s the greatest thing that’s ever happened to me.
+	I have a son who is <span id="son-age">x</span> old. He's the greatest thing that's ever happened to me.
 </p>
 
-<img src="https://i.imgur.com/Ailg6dU.jpeg" alt="son" style="max-width: 50%"/>
-
-I enjoy working out. I like the way it makes me feel and look.  
+I enjoy working out. I like the way it makes me feel and look.
 Check out my current [diet](/diet) and [training plan](/training).
-
-<img src="https://i.imgur.com/r91EP3k.jpg" alt="gym" style="max-width: 50%"/>
 
 I love owning a home and sculpting it to fit my tastes exactly. I strive for a home that is safe, functional, and a joy to live in. I like to care for quality things to make them last. I enjoy lawns, vegetable gardens, fruit trees, backyard chicken amd flowers. I like controlling my sprinklers and AC with an app.
 
-Animals hold a special place in my heart. I've had a dog for most of my life and I've raised chickens. I have a Buff Orpington and an Easter Egger right now. One day I want to get a cat. I enjoy zoos, aquariums, nature, and safaris. I’ve seen elephants, rhinos, hippos and leopards in the wild. I was once bitten by a lion cub.
+Animals hold a special place in my heart. I've had a dog for most of my life and I've raised chickens. I have a Buff Orpington and an Easter Egger right now. One day I want to get a cat. I enjoy zoos, aquariums, nature, and safaris. I've seen elephants, rhinos, hippos and leopards in the wild. I was once bitten by a lion cub.
 
-<img src="https://i.imgur.com/SnEMQZj.gif" alt="gym" style="max-width: 50%"/>
+I grew up in Utah and have a deep love for the mountains. I enjoy snow skiing and water sports like boating, wakeboarding, and skiing. I've also lived in San Diego while working for the United States Navy and absolutely love it there. The ocean and beach are majestic.  I hope to buy a second home in San Diego someday.
 
-I grew up in Utah and have a deep love for the mountains. I enjoy snow skiing and water sports like boating, wakeboarding, and skiing. I’ve also lived in San Diego while working for the United States Navy and absolutely love it there. The ocean and beach are majestic.  I hope to buy a second home in San Diego someday.
-
-<img src="https://i.imgur.com/m9XQcjv.jpg" alt="skiing" style="max-width: 50%"/>
-<img src="https://i.imgur.com/xNiPG3K.jpg" alt="beach" style="max-width: 50%"/>
-
-I’m a huge fan of (electric)
-vehicles. Isn't electricity so cool?! I used to have an e-bike that I loved, but I got hit by a car. I had a segway that I LOVED to ride; it was stolen!  My next goal is to get an electric car and, eventually, an autonomous passenger drone.  
-
-<img src="https://i.imgur.com/qZOpZfD.jpg" alt="bike" style="max-width: 50%"/>
+I'm a huge fan of (electric)
+vehicles. Isn't electricity so cool?! I used to have an e-bike that I loved, but I got hit by a car. I had a segway that I LOVED to ride; it was stolen!  My next goal is to get an electric car and, eventually, an autonomous passenger drone.
 
 Movies are a bit challenging for me to sit through, but here are some of my favorites (in no particular order):
 
