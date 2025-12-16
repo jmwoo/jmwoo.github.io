@@ -20,6 +20,14 @@
 - **15%** [`FISVX` — Fidelity Small Cap Value Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773)
 - **5%** [`FBTC` — Fidelity Wise Origin Bitcoin Fund](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC)
 
+### Individual
+- **60%** [`SCHX` — Schwab U.S. Large-Cap ETF](https://www.schwabassetmanagement.com/products/schx)
+- **15%** [`SCHA` — Schwab U.S. Small-Cap ETF](https://www.schwabassetmanagement.com/products/scha)
+- **10%** [`SCHF` — Schwab International Equity ETF](https://www.schwabassetmanagement.com/products/schf)
+- **10%** [`SCHE` — Schwab Emerging Markets Equity ETF](https://www.schwabassetmanagement.com/products/sche)
+- **5%** "Moonshots"
+
+
 ---
 
 # Thesis
