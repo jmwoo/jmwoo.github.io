@@ -138,7 +138,9 @@ title: Weight
 (function() {
   // Hardcoded weight data - will eventually fetch from remote
   const weightData = [
-    { date: '2026-01-05', weight: 227.5 }
+    { date: '2026-01-05', weight: 227.5 },
+    { date: '2026-01-06', weight: 224.4 },
+    { date: '2026-01-07', weight: 224.2 }
   ];
 
   // Convert to lightweight-charts format
