@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<a href="/recipes">&larr; recipes</a>
+
+<h1>{{ page.title }}</h1>
+
+{% if page.description %}
+<p>{{ page.description }}</p>
+{% endif %}
+
+<div class="recipe-content">
+  <div class="recipe-ingredients">
+    <strong>Ingredients</strong>
+    <ul>
+      {% for item in page.ingredients %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="recipe-instructions">
+    <strong>Instructions</strong>
+    {{ content }}
+  </div>
+</div>
+
+<style>
+.recipe-content {
+  display: flex;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+.recipe-ingredients {
+  flex: 1;
+}
+.recipe-instructions {
+  flex: 1;
+}
+.recipe-instructions ul {
+  list-style: none;
+  counter-reset: step;
+  padding-left: 0;
+}
+.recipe-instructions ul li {
+  counter-increment: step;
+}
+.recipe-instructions ul li::before {
+  content: counter(step) ". ";
+  font-weight: bold;
+}
+.recipe-ingredients strong,
+.recipe-instructions strong {
+  font-size: 1.1rem;
+}
+.recipe-ingredients ul {
+  font-size: 0.9rem;
+}
+@media (max-width: 600px) {
+  .recipe-content {
+    flex-direction: column;
+  }
+  .recipe-ingredients {
+    flex: 1;
+  }
+}
+</style>
