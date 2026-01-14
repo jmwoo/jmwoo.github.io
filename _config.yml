@@ -1,3 +1,4 @@
 # Jekyll configuration
 title: "Jim Woolley"
 description: "Personal website and blog"
+permalink: pretty
