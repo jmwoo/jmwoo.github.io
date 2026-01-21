@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: potroast
-description: pot roast (brazed beef)
+title: pot roast
+description: brazed beef
 ingredients:
 - around ~5 pound beef chuck
 - salt and pepper

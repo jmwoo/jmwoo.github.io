@@ -1,3 +1,5 @@
+# Investment Strategy
+
 ### Traditional IRA
 - **100%** [`SWPPX` — Schwab S&P 500 Index Fund](https://www.schwabassetmanagement.com/products/swppx)
 
@@ -6,10 +8,12 @@
 - **5%** [`FBTC` — Fidelity Wise Origin Bitcoin Fund](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC)
 
 ### Traditional Solo 401(k)
-- **100%** [`FXAIX` — Fidelity 500 Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/315911750)
+- **85%** [`FSKAX` — Fidelity Total Market Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/315911693)
+- **15%** [`FTIHX` — Fidelity Total International Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638)
 
 ### Roth Solo 401(k)
-- **95%** [`FXAIX` — Fidelity 500 Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/315911750)
+- **80%** [`FSKAX` — Fidelity Total Market Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/315911693)
+- **15%** [`FTIHX` — Fidelity Total International Index Fund](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638)
 - **5%** [`FBTC` — Fidelity Wise Origin Bitcoin Fund](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FBTC)
 
 ### Individual
@@ -17,4 +21,5 @@
 - **15%** [`SCHA` — Schwab U.S. Small-Cap ETF](https://www.schwabassetmanagement.com/products/scha)
 - **15%** [`SCHF` — Schwab International Equity ETF](https://www.schwabassetmanagement.com/products/schf)
 - **10%** [`SCHE` — Schwab Emerging Markets Equity ETF](https://www.schwabassetmanagement.com/products/sche)
-- **10%** "Fun/Moonshot Stock Picks"
+- **10%** "Singles"
+	- [`TSLA`] - Tesla Inc
