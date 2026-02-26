@@ -22,4 +22,3 @@
 - **15%** [`SCHF` — Schwab International Equity ETF](https://www.schwabassetmanagement.com/products/schf)
 - **10%** [`SCHE` — Schwab Emerging Markets Equity ETF](https://www.schwabassetmanagement.com/products/sche)
 - **10%** "Singles"
-	- [`TSLA`] - Tesla Inc

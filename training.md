@@ -10,38 +10,34 @@
 - do the hardest, compound lift first, it's the most important
 - movements should be slow and in control, focus on feeling both the concentric and eccentric muscle contractions
 - a little core training every day, it's important for posture and sedentary jobs
-- rest on saturday and sunday
 
-## 1 - Chest
-- warm up: 10 min incline walk on treadmill, stretches - hip flexor, hamstrings, squat
-- chest press (flat/decline/incline bar/dumbbell)
-- machine chest flies
-- machine press
+- 15, 12, 12, 10
+
+## A - Chest
+- chest press (flat or decline or incline)
+- dumbbell flies
 - dips
+- machine press
 - planks
 
 ## 2 - Back
-- warm up: 10 min incline walk on treadmill, stretches - hip flexor, hamstrings, squat
-- trap bar deadlift
-- wide grip pulldowns
+- dead lifts
+- pull ups
 - machine rows (not cable machine those hurt)
-- ISO lateral front lat pulldown
-- ISO lateral row (machine)
+- pull downs (standing cable lat pull down OR sitting wide grip pull down)
 - shrugs
 - swimming superman
 - flutter kicks
 
 ## 3 - Shoulders
-- warm up: 10 min incline walk on treadmill, stretches - hip flexor, hamstrings, squat
 - shoulder press
-- lateral raises
+- side and front raises
 - reverse flies
 - upright rows
 - crunches
 
 ## 4 - Legs
-- warm up: 10 min incline walk on treadmill, stretches - hip flexor, hamstrings, squat
-- leg press
+- squats
 - leg extensions
 - leg curls
 - hip abduction machine
