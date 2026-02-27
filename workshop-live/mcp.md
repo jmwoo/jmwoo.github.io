@@ -27,3 +27,8 @@ permalink: /agentic-coding/mcp/
 1. Filesystem MCP: read/write project files and generate code changes.
 2. GitHub MCP: open issues, inspect PRs, and post review comments.
 3. Production Ops MCP: query telemetry, run safe diagnostics, and trigger controlled deploy workflows.
+
+## Install MCP (Codex + Claude Code)
+
+- Codex: Settings -> MCP Servers -> Add Server -> provide server command/env -> connect -> verify tools appear.
+- Claude Code: configure MCP in `~/.claude/settings.json` or project `.mcp.json`, then restart session and verify tool list.
