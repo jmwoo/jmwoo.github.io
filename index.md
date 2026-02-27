@@ -11,3 +11,4 @@ title: Home
 - [investments](/invest)
 - [diet](/diet) 
 - [training](/training)
+- [agentic coding](/agentic-coding/)

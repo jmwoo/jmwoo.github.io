@@ -1,0 +1,304 @@
+---
+layout: default
+---
+
+{% assign deck_pages = site.pages | where: "deck", page.deck | where_exp: "p", "p.page_number" | sort: "page_number" %}
+{% assign total = deck_pages | size %}
+{% assign current_num = page.page_number %}
+
+<div id="ws-toolbar">
+  <button id="ws-toc-btn" title="Table of Contents">&#9776;</button>
+  <span id="ws-title">{{ page.deck_title | default: "Workshop" }}</span>
+  <span id="ws-page-indicator">{{ current_num }} / {{ total }}</span>
+</div>
+
+<div id="ws-progress-bar">
+  <div id="ws-progress-fill" style="width: {{ current_num | times: 100.0 | divided_by: total }}%"></div>
+</div>
+
+<div id="ws-toc-overlay" class="ws-hidden">
+  <div id="ws-toc-panel">
+    <div id="ws-toc-header">
+      <span>Contents</span>
+      <button id="ws-toc-close">&times;</button>
+    </div>
+    <ul id="ws-toc-list">
+      {% for p in deck_pages %}
+      <li><a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div id="ws-content">
+  {{ content }}
+</div>
+
+<div id="ws-nav">
+  {% for p in deck_pages %}
+    {% if p.page_number == current_num %}
+      {% assign idx = forloop.index0 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if idx > 0 %}
+    {% assign prev_idx = idx | minus: 1 %}
+    {% assign prev_page = deck_pages[prev_idx] %}
+    <a href="{{ prev_page.url }}" class="ws-nav-btn" id="ws-prev">&larr; {{ prev_page.title }}</a>
+  {% else %}
+    <span class="ws-nav-btn disabled">&larr; Previous</span>
+  {% endif %}
+
+  {% assign next_idx = idx | plus: 1 %}
+  {% if next_idx < total %}
+    {% assign next_page = deck_pages[next_idx] %}
+    <a href="{{ next_page.url }}" class="ws-nav-btn" id="ws-next">{{ next_page.title }} &rarr;</a>
+  {% else %}
+    <span class="ws-nav-btn disabled">Next &rarr;</span>
+  {% endif %}
+</div>
+
+<div id="ws-dots">
+  {% for p in deck_pages %}
+  <a href="{{ p.url }}" class="ws-dot {% if p.url == page.url %}active{% endif %}" title="{{ p.title }}"></a>
+  {% endfor %}
+</div>
+
+<style>
+body.ws-page #main-content {
+  float: none;
+  width: 100%;
+}
+body.ws-page #sidebar {
+  display: none;
+}
+
+#ws-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #e9ecef;
+  margin-bottom: 0.5rem;
+}
+#ws-toc-btn {
+  background: none;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  color: #333;
+  line-height: 1;
+}
+#ws-toc-btn:hover {
+  background: #f8f9fa;
+}
+#ws-title {
+  font-weight: 600;
+  flex: 1;
+}
+#ws-page-indicator {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+#ws-progress-bar {
+  height: 3px;
+  background: #e9ecef;
+  margin-bottom: 1.5rem;
+}
+#ws-progress-fill {
+  height: 100%;
+  background: #2e7bcf;
+  transition: width 0.3s ease;
+}
+
+#ws-toc-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.4);
+  z-index: 1000;
+  display: flex;
+}
+#ws-toc-overlay.ws-hidden {
+  display: none;
+}
+#ws-toc-panel {
+  background: #fff;
+  width: 320px;
+  max-width: 85vw;
+  height: 100%;
+  overflow-y: auto;
+  padding: 1.5rem;
+  box-shadow: 2px 0 8px rgba(0,0,0,0.15);
+}
+#ws-toc-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+#ws-toc-close {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #666;
+  line-height: 1;
+}
+#ws-toc-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#ws-toc-list li {
+  margin-bottom: 0.25rem;
+}
+#ws-toc-list a {
+  display: block;
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  color: #333;
+  border-bottom: none;
+  font-size: 0.9rem;
+}
+#ws-toc-list a:hover {
+  background: #f8f9fa;
+  border-bottom: none;
+}
+#ws-toc-list a.active {
+  background: #2e7bcf;
+  color: #fff;
+}
+
+#ws-content {
+  min-height: 300px;
+  margin-bottom: 2rem;
+}
+#ws-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-top: 1px solid #e9ecef;
+}
+.ws-nav-btn {
+  padding: 0.5rem 1rem;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  color: #2e7bcf;
+  font-size: 0.85rem;
+  max-width: 45%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ws-nav-btn:hover {
+  background: #f8f9fa;
+  border-bottom: 1px solid #e9ecef;
+}
+.ws-nav-btn.disabled {
+  color: #ccc;
+  border-color: #f0f0f0;
+  cursor: default;
+}
+
+#ws-dots {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  padding: 1rem 0;
+}
+.ws-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #e9ecef;
+  border-bottom: none;
+  display: inline-block;
+}
+.ws-dot:hover {
+  background: #aaa;
+  border-bottom: none;
+}
+.ws-dot.active {
+  background: #2e7bcf;
+}
+
+.ws-callout {
+  padding: 1rem 1.25rem;
+  border-radius: 6px;
+  margin: 1.25rem 0;
+  border-left: 4px solid;
+}
+.ws-callout-tip {
+  background: #f0f9ff;
+  border-color: #2e7bcf;
+}
+.ws-callout-warn {
+  background: #fff8f0;
+  border-color: #e67e22;
+}
+.ws-callout-quote {
+  background: #f8f9fa;
+  border-color: #666;
+  font-style: italic;
+}
+.ws-callout-key {
+  background: #f0fff4;
+  border-color: #28a745;
+}
+
+@media (max-width: 768px) {
+  .ws-nav-btn {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.6rem;
+  }
+  #ws-toolbar {
+    font-size: 0.9rem;
+  }
+  #ws-content table {
+    display: block;
+    overflow-x: auto;
+  }
+}
+</style>
+
+<script>
+document.body.classList.add('ws-page');
+
+const tocOverlay = document.getElementById('ws-toc-overlay');
+document.getElementById('ws-toc-btn').addEventListener('click', function () {
+  tocOverlay.classList.remove('ws-hidden');
+});
+document.getElementById('ws-toc-close').addEventListener('click', function () {
+  tocOverlay.classList.add('ws-hidden');
+});
+tocOverlay.addEventListener('click', function (e) {
+  if (e.target === tocOverlay) {
+    tocOverlay.classList.add('ws-hidden');
+  }
+});
+
+document.addEventListener('keydown', function (e) {
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+  if (e.key === 'Escape') {
+    tocOverlay.classList.add('ws-hidden');
+    return;
+  }
+  if (e.key === 'ArrowLeft') {
+    const prev = document.getElementById('ws-prev');
+    if (prev) window.location.href = prev.href;
+  }
+  if (e.key === 'ArrowRight') {
+    const next = document.getElementById('ws-next');
+    if (next) window.location.href = next.href;
+  }
+});
+</script>
