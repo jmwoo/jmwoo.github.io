@@ -11,7 +11,12 @@ permalink: /agentic-coding/mcp/
 
 - let your agent use other people's developed tools
 
-- My favorite: postgres MCP. demo
+- examples:
+	- context7
+	- playwright
+
+- My favorite: postgres MCP
+	- demo?
 
 - Capabilities: files, APIs, databases, dev/cloud systems.
 - Impact: turns chat into an operational workflow.

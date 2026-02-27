@@ -12,12 +12,15 @@ permalink: /agentic-coding/development-loop/
 - Plan
 - Execute
 - Review
+
 ---
-## How to make a big app, by small and simple dev loops
+
+## How to make a big app? by small and simple dev loops
 - a Huge App
-	- Feature 1 [Discuss -> Plan -> Execute -> Review]
-	- Feature 2 [Discuss -> Plan -> Execute -> Review]
-	- Bug 1 [Discuss -> Plan -> Execute -> Review] 
+	- Feature 1: `Discuss -> Plan -> Execute -> Review`
+	- Feature 2: `Discuss -> Plan -> Execute -> Review`
+	- Bug 1: `Discuss -> Plan -> Execute -> Review`
+
 ---
 
 ## remember

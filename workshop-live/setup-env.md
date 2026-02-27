@@ -7,7 +7,7 @@ deck_title: "Agentic Coding"
 permalink: /agentic-coding/setup-env/
 ---
 
-# Set Up Env
+# Set Up Environment
 
 ## traditional tools
 	- text editor (VSCode)

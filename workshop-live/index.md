@@ -12,16 +12,16 @@ permalink: /agentic-coding/
 - Agentic (Vibe) Coding
 
 ## Why?
-	- better, faster, cheaper (if done right...)
+- better, faster, cheaper (if done right...)
 
 - This is new, have patience
 
-- ## history
+## history
 	- chatgpt
 	- agents (claude code / codex)
 	- what's next?  .... OpenClaw ?
 
-- ## 3 ingredients
+## 3 ingredients
 	- prompts
 	- context (the markdown file!)
 	- tools

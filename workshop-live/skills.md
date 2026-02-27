@@ -22,6 +22,8 @@ Skills are reusable instruction packs for repeatable workflows.
 
 ## people make skills you can install
 
+- try some!
+
 ## Example skills
 
 1. Issue Story Writer: convert rough requests into clear GitHub issues.
