@@ -9,11 +9,14 @@ permalink: /agentic-coding/get-started/
 
 # Get Started
 
-Start simple: initialize the agent, define rules, and keep the repo clean.
+- initialize the agent, define rules, and keep the repo clean.
 
-- First run: open terminal, start agent, run `/init` if supported.
-- Add `CLAUDE.md` or `AGENTS.md` with commands and guardrails.
-- Keep hygiene high: clean structure, working scripts/tests, small commits.
+- run `/init` if supported.
+
+- `CLAUDE.md` or `AGENTS.md`
+	- file the agent reads automatically at the start of every "session"
+	- conventions, preferences, etc..
+	- less is more
 
 ## `AGENTS.md` template
 
@@ -38,7 +41,8 @@ Start simple: initialize the agent, define rules, and keep the repo clean.
 
 # Workflow
 1. Plan before coding
-2. Implement in small steps
-3. Run tests after changes
-4. Commit with descriptive messages
+2. Start features in new branch
+3. Implement in small steps
+4. Run tests after changes
+5. Commit with descriptive messages
 ```

@@ -11,11 +11,18 @@ permalink: /agentic-coding/skills/
 
 Skills are reusable instruction packs for repeatable workflows.
 
+- They can be just markdown files (so simple and elegant!)
+	- also can contain more (scripts)
+
+- put in .agents/skills
+
 - Why: less repetitive prompting and more consistent outputs.
 - Where useful: issue writing, deploy flows, compliance checks.
 - Rule: use skills whenever a workflow repeats.
 
-## Example skills (easy -> advanced)
+## people make skills you can install
+
+## Example skills
 
 1. Issue Story Writer: convert rough requests into clear GitHub issues.
 2. Test + Fix Loop: run tests, diagnose failures, patch code, rerun tests.

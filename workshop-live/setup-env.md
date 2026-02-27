@@ -9,8 +9,17 @@ permalink: /agentic-coding/setup-env/
 
 # Set Up Env
 
-Use one primary agent and keep your standard engineering tooling intact.
+## traditional tools
+	- text editor (VSCode)
+	- git
+	- terminal (or desktop app?)
 
-- Agent choices: Gemini, Claude Code, OpenCode, Cursor/Windsurf/Aider.
-- Still required: editor, Git, and terminal basics.
-- Ready check: repo opens, build/tests run, branching works.
+## agents
+	- claude code cli (or app?)
+	- codex (or app? extra tokens free until Apr 2)
+	- opencode (cheapest, chinese models)
+	- i use many because i run out of tokens
+	- others
+		- cursor
+		- windsurf
+		- gemini cli

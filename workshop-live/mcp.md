@@ -9,7 +9,9 @@ permalink: /agentic-coding/mcp/
 
 # MCP
 
-MCP gives agents a standard, controlled way to use external tools.
+- let your agent use other people's developed tools
+
+- My favorite: postgres MCP. demo
 
 - Capabilities: files, APIs, databases, dev/cloud systems.
 - Impact: turns chat into an operational workflow.

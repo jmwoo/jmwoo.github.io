@@ -9,8 +9,21 @@ permalink: /agentic-coding/
 
 # Welcome: What Is This?
 
-Agentic coding is intent-driven software development with humans still responsible for quality.
+- Agentic (Vibe) Coding
 
-- Why now: faster iteration and less boilerplate.
-- What changed: from chat copy/paste to tool-using agents.
-- What matters: prompts + context + tools.
+## Why?
+	- better, faster, cheaper (if done right...)
+
+- This is new, have patience
+
+- ## history
+	- chatgpt
+	- agents (claude code / codex)
+	- what's next?  .... OpenClaw ?
+
+- ## 3 ingredients
+	- prompts
+	- context (the markdown file!)
+	- tools
+
+- newbies can build and deploy real apps!
