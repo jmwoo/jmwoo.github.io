@@ -4,11 +4,12 @@ title: fat2fit
 ---
 
 # How do we get fit?
-It is March 15, in 3 months, it will be June 15. We have 3 months.
+It is March 15 2026. In 3 months, it will be June 15.
+Let's get fit!
 
-> March 15, 2026 - Jun 15, 2026
-> Current Weight: 225
-> Target Weight: 205
+## Status
+- Current Weight: **225**
+- Target Weight: **205**
 
 ## Behavior Plan
 
